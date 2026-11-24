@@ -7,7 +7,7 @@ I'm the technical co-founder and Chief Software Architect at [Wantable](https://
 - **Wantable**: the commerce, styling, subscription and fulfillment platform behind wantable.com. Grew from prototype to 10K+ orders a week and an Inc. 5000 ranking (#223). Lately I've been building internal AI tools on top of it for our stylists and staff.
 - **Wantable Shopify stores**: the Wantable shop and our SEAS brand store, connected to our own order and fulfillment systems.
 - **[ShipPulse](https://ship-pulse.com)**: a Shopify app I built solo. Delivery date estimates that learn from each store's shipping history, plus a free shipping progress bar. [On the Shopify App Store](https://apps.shopify.com/shippulse).
-- **[Fluency](https://fluencypay.ai)**: an AI-powered text messaging platform for creators and brands, with LLM personas and Stripe Connect payments. Launched at New York Fashion Week with 17 Shopify brands.
+- **[Fluency](https://fluencypay.ai)**: an AI-powered text messaging platform for creators and brands, with LLM personas and Stripe Connect payments, which I built almost entirely solo. Launched at New York Fashion Week with 17 Shopify brands.
 
 **Open source**
 
